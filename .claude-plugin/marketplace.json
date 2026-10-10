@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"创业法务助手：公司类型→注册流程→股权设计→协议清单；非律师意见、仅供参考","name":"lhg-startup-legal","source":"./"}]}
